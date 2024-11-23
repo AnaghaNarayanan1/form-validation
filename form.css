@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    
+}
+.form-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: #4babbe;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.error {
+    color: red;
+    font-size: 0.875rem;
+}
